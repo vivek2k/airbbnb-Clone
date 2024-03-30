@@ -1,0 +1,10 @@
+.fullscreen-div {
+    position: fixed;
+    top: 100px;
+    left: 0;
+    width: 90%;
+    height: 90%;
+    z-index: 9999; /* Set z-index high to ensure it appears in front of other elements */
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    /* Additional styling as needed */
+  }
